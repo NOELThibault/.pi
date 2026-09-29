@@ -11,6 +11,7 @@ It is mainly a productivity tool and is not used to produce code.
 - Logs in external files
 - Bash guarding
 - Interactive subagents
+- Humanized text output
 
 Plans for the future:
 - Speech to text
