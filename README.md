@@ -8,15 +8,17 @@ It is mainly a productivity tool and is not used to produce code.
 - PDF and YouTube video summary/analysis
 - Web searches
 - Prompt snippets
-- Logs in .md files
+- Logs in external files
 - Bash guarding
 - Interactive subagents
 
 Plans for the future:
 - Speech to text
 - Todo system
-- Translation skill
+- Translation
 - Text to speech
+- Blog review
+- Learning system GUI
 
 # Credits
 
